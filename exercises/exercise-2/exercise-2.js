@@ -71,7 +71,7 @@ let hogwarts = [
   },
 ];
 
-TASK 1
+// TASK 1
 
 const showGryffindor = (peopleAtHogwarts) => {
   let names = peopleAtHogwarts
@@ -83,6 +83,7 @@ const showGryffindor = (peopleAtHogwarts) => {
 
 showGryffindor(hogwarts);
 
+// TASK 2
 
 const showPetOwnerTeachers = (peopleAtHogwarts) => {
   let names = peopleAtHogwarts
